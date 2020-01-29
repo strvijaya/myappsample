@@ -1,2 +1,2 @@
 # myappsample
-Sample app for tutorial
+Sample app for git tutorial
